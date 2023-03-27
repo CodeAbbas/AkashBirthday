@@ -30,7 +30,7 @@
 
 ```
 
-[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@smilegupta.1998&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/Abbasuddin.01/)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@gupta_smile_&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/code_abbas/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@smilegupta&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/abbas-dev/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@gupta_smile_&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/abbas-dev)
+[![Facebook](https://img.shields.io/static/v1.svg?label=follow&message=@AbbasUddin.01&color=9cf&logo=facebook&style=flat&logoColor=white&colorA=informational)](https://www.facebook.com/Abbasuddin.01/)  [![Instagram](https://img.shields.io/static/v1.svg?label=follow&message=@code_abbas&color=grey&logo=instagram&style=flat&logoColor=white&colorA=critical)](https://www.instagram.com/code_abbas/) [![LinkedIn](https://img.shields.io/static/v1.svg?label=connect&message=@abbas-dev&color=9cf&logo=linkedin&style=flat&logoColor=white&colorA=blue)](https://www.linkedin.com/in/abbas-dev/) [![Twitter](https://img.shields.io/static/v1.svg?label=connect&message=@annas-dev&color=grey&logo=twitter&style=flat&logoColor=white&colorA=critical)](https://twitter.com/abbas-dev)
 
 ***Glad to see you here! Show some love by [starring](https://github.com/CodeAbbas) this repo.***
 
